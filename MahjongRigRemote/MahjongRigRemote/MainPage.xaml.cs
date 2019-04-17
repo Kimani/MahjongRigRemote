@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// [Ready Design Corps] - [Mahjong Rig Remote] - Copyright 2019
+
 using Xamarin.Forms;
 
 namespace MahjongRigRemote

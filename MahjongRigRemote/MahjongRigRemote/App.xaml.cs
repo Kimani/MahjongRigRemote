@@ -1,4 +1,5 @@
-﻿using System;
+﻿// [Ready Design Corps] - [Mahjong Rig Remote] - Copyright 2019
+
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
